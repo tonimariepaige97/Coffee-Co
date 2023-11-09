@@ -29,3 +29,8 @@ subheader button {
   cursor: pointer;
   padding: 1rem;
 }
+
+subheader button:hover {
+  background-color: #b07b64;
+  color: black;
+}
