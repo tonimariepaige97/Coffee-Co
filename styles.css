@@ -16,3 +16,16 @@ subheader {
   height: 5rem;
   padding-left: 48.5rem;
 }
+
+subheader button {
+  color: white;
+  border: none;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+  margin-left: 15px;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #945b45;
+  cursor: pointer;
+  padding: 1rem;
+}
