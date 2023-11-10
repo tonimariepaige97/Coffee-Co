@@ -70,3 +70,8 @@ header button {
   border: none;
   cursor: pointer;
 }
+
+header button:hover {
+  background-color: #b07b64;
+  color: black;
+}
