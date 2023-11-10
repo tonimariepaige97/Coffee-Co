@@ -75,3 +75,8 @@ header button:hover {
   background-color: #b07b64;
   color: black;
 }
+
+header p {
+  font-size: 1.5rem;
+  padding: 15px;
+}
