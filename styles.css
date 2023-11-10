@@ -80,3 +80,11 @@ header p {
   font-size: 1.5rem;
   padding: 15px;
 }
+
+/* INTRO */
+
+.coffee-cup-img {
+  height: 55rem;
+  width: 108rem;
+  padding-left: 5.5rem;
+}
