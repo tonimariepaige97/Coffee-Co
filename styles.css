@@ -34,3 +34,12 @@ subheader button:hover {
   background-color: #b07b64;
   color: black;
 }
+
+/* HEADER */
+
+header {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  height: 4rem;
+}
