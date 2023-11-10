@@ -50,3 +50,11 @@ header {
   font-size: 20px;
   font-weight: 500;
 }
+
+.btn-login {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 7px;
+  padding-bottom: 80px;
+  margin: 10px;
+}
