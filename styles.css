@@ -88,3 +88,22 @@ header p {
   width: 108rem;
   padding-left: 5.5rem;
 }
+
+/* INTRO DESCRIPTION */
+
+.intro-description {
+  font-size: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  color: rgba(85, 80, 80, 0.838);
+  font-family: "Times New Roman", Times, serif;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 1.5rem;
+  width: 100rem;
+  margin-left: 8rem;
+  padding-bottom: 14rem;
+  padding-top: 12rem;
+  line-height: 50px;
+}
