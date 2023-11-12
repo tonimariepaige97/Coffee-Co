@@ -114,3 +114,18 @@ header p {
   padding-top: 13rem;
   border-top: 1px solid #c2ac9562;
 }
+/* SHOP SECTION */
+
+.shop-section {
+  display: flex;
+  flex-direction: row;
+  font-size: 1.4rem;
+  color: #432818;
+  height: 45rem;
+  justify-content: center;
+  gap: 4rem;
+  width: 100%;
+  font-family: fantasy;
+  text-align: center;
+  cursor: pointer;
+}
