@@ -140,3 +140,14 @@ header p {
   box-shadow: 0px 10px 10px rgb(232, 232, 232);
   cursor: pointer;
 }
+
+.instant-img {
+  height: 24rem;
+  width: 23rem;
+  margin-top: 2rem;
+  /* padding-top: 5rem; */
+  background-color: #ebecee;
+  border-radius: 10px;
+  box-shadow: 0px 10px 10px rgb(232, 232, 232);
+  cursor: pointer;
+}
