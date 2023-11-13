@@ -173,3 +173,14 @@ header p {
   box-shadow: 0px 10px 10px rgb(232, 232, 232);
   cursor: pointer;
 }
+
+/* HERO */
+
+.hero-imgs {
+  background-color: rgba(244, 242, 242, 0.986);
+  height: 50rem;
+  display: flex;
+  gap: 4rem;
+  padding-top: 8rem;
+  padding-left: 21rem;
+}
