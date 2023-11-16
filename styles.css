@@ -254,3 +254,13 @@ header p {
   font-family: Arial, Helvetica, sans-serif;
   color: rgb(128, 116, 116);
 }
+
+.dif-coffee-card p {
+  width: 21rem;
+  font-size: 18px;
+  padding-top: 2rem;
+  padding-bottom: 1.6rem;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(150, 138, 138);
+}
