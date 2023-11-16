@@ -226,3 +226,7 @@ header p {
 .freshly-card {
   height: 40rem;
 }
+
+.freshly-card p {
+  width: 20rem;
+}
