@@ -215,3 +215,10 @@ header p {
 .hero-para {
   display: flex;
 }
+
+/* CARDS */
+
+.beans-card {
+  height: 40rem;
+  width: 70rem;
+}
