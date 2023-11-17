@@ -264,3 +264,10 @@ header p {
   font-family: Arial, Helvetica, sans-serif;
   color: rgb(150, 138, 138);
 }
+
+.beans-card h2 {
+  color: rgb(65, 61, 61);
+  font-weight: 100;
+  padding-top: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
