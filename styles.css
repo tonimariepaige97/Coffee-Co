@@ -292,3 +292,8 @@ a {
   font-family: fantasy;
   text-decoration: none;
 }
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
