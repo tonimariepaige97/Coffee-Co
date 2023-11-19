@@ -306,3 +306,9 @@ footer {
   height: 25rem;
   justify-content: space-between;
 }
+
+.footer-top {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  font-size: 2rem;
+}
