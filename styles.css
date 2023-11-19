@@ -312,3 +312,12 @@ footer {
   padding-bottom: 2rem;
   font-size: 2rem;
 }
+
+.company-col {
+  font-family: fantasy;
+  display: flex;
+  flex-direction: column;
+  color: rgb(67, 67, 67);
+  padding-top: 2rem;
+  padding-left: 9rem;
+}
