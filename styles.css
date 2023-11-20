@@ -338,3 +338,10 @@ footer {
   color: rgb(67, 67, 67);
   padding-right: 10rem;
 }
+
+.first-col {
+  font-family: fantasy;
+  padding-top: 1.8rem;
+  list-style: none;
+  font-weight: 700;
+}
