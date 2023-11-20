@@ -359,3 +359,14 @@ footer {
   list-style: none;
   font-weight: 700;
 }
+
+.subscribe-col {
+  font-size: 1.1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 23rem;
+  padding-right: 8rem;
+  padding-top: 7rem;
+  padding-left: 7rem;
+  color: rgb(96, 95, 95);
+  line-height: 1.6rem;
+}
