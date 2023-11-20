@@ -329,3 +329,12 @@ footer {
   flex-direction: column;
   color: rgb(67, 67, 67);
 }
+
+.more-col {
+  padding-top: 8rem;
+  font-family: fantasy;
+  display: flex;
+  flex-direction: column;
+  color: rgb(67, 67, 67);
+  padding-right: 10rem;
+}
