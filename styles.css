@@ -21,11 +21,13 @@ subheader {
 subheader button {
   color: white;
   border: none;
-  font-family: "Times New Roman", Times, serif;
-  font-weight: 500;
+  font-size: 19px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 600;
   margin-left: 15px;
   padding: 10px;
-  border-radius: 20px;
+  border-radius: 23px;
   background-color: #945b45;
   cursor: pointer;
   padding: 1rem;
