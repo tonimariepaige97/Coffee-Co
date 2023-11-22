@@ -36,6 +36,7 @@ subheader button {
 subheader button:hover {
   background-color: #b07b64;
   color: black;
+  font-weight: 800;
 }
 
 /* HEADER */
