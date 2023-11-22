@@ -370,3 +370,9 @@ footer {
   color: rgb(96, 95, 95);
   line-height: 1.6rem;
 }
+
+.subscribe-col h4 {
+  padding-bottom: 12px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
