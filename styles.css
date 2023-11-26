@@ -22,8 +22,7 @@ subheader button {
   color: white;
   border: none;
   font-size: 19px;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 600;
   margin-left: 15px;
   padding: 10px;
@@ -51,8 +50,9 @@ header {
 .header-list li {
   display: inline-block;
   padding: 20px;
-  font-size: 20px;
+  font-size: 1.6rem;
   font-weight: 500;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .btn-login {
@@ -96,7 +96,7 @@ header p {
 /* INTRO DESCRIPTION */
 
 .intro-description {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   display: flex;
   flex-direction: column;
   color: rgba(85, 80, 80, 0.838);
