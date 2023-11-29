@@ -50,6 +50,11 @@ header {
   border: 1px red solid;
 }
 
+header p {
+  border: 1px red solid;
+  margin-top: 5px;
+}
+
 .header-list li {
   display: inline-block;
   padding: 20px;
