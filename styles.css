@@ -16,6 +16,7 @@ subheader {
   text-align: center;
   height: 5rem;
   padding-left: 48.5rem;
+  max-width: 88rem;
 }
 
 subheader button {
