@@ -48,6 +48,7 @@ header {
   height: 4rem;
   font-weight: 500;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 135rem;
 }
 
 header p {
