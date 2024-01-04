@@ -100,10 +100,11 @@ header p {
 
 .coffee-cup-img {
   height: 55rem;
-  width: 108rem;
+  width: 123rem;
   padding-left: 5.5rem;
   padding-top: 1rem;
   padding-bottom: 2rem;
+  max-width: 130rem;
 }
 
 /* INTRO DESCRIPTION */
